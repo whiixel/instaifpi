@@ -1,5 +1,4 @@
 # InstaIFPI
-Projetando o similar do instagram do IFPI Parnaíba
+Ferramenta social de fotos do IFPI Parnaíba
 
-Turma do 2º ano do curso Técnico Integrado em Informática 2018.
-Professor: Clodoaldo Brasilino
+Projeto utilizado como referência para estudos de UML e Git/GitHub.
